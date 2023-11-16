@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+
 
 const comment = (props) => {
   return (
@@ -8,4 +9,4 @@ const comment = (props) => {
   )
 }
 
-export default comment
+export default comment;
