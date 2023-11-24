@@ -20,7 +20,7 @@ import Blocks from './chpater_15/Blocks';
 const root = ReactDOM.createRoot(document.getElementById('root'));
   root.render(
     <React.StrictMode>
-      <Blocks />
+      <App />
     </React.StrictMode>
   );
 
